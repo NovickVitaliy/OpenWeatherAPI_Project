@@ -1,0 +1,14 @@
+@model Entities.WeatherInfo
+
+<div class="main-content">
+    <h2>Weather in the @ViewBag.City of the @ViewBag.Country @(ViewBag.State != null ? $"- {ViewBag.State}" : "" )</h2>
+    <img src="https://openweathermap.org/img/wn/@(Model.CurrentWeather.WeatherIcon)@@2x.png"/>
+    <h1>@Model.CurrentWeather.TimeOfTheDay</h1>
+    <p>Latitude of the city - @Model.Latitude</p>
+    <p>Longtitude of the city - @Model.Longtitude</p>
+    <p>Current temperature: @Model.CurrentWeather.Temperature C</p>
+    <p>Humidity: @Model.CurrentWeather.Humidity %</p>
+    <p>Pressure: @Model.CurrentWeather.Pressure hPa</p>
+    <p>Main: @Model.CurrentWeather.MainWeather</p>
+    <p>Description: @Model.CurrentWeather.WeatherDescription</p>
+</div>

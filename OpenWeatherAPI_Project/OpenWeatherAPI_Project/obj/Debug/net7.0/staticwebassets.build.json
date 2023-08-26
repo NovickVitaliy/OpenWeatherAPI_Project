@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "Hash": "g0JGU9qqx/YHrGPkdcQHvo8vGtHBTETSY0/Ib6nkK14=",
+  "Source": "OpenWeatherAPI_Project",
+  "BasePath": "_content/OpenWeatherAPI_Project",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "OpenWeatherAPI_Project\\wwwroot",
+      "Source": "OpenWeatherAPI_Project",
+      "ContentRoot": "C:\\Users\\User\\RiderProjects\\OpenWeatherAPI_Project\\OpenWeatherAPI_Project\\OpenWeatherAPI_Project\\wwwroot\\",
+      "BasePath": "_content/OpenWeatherAPI_Project",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\User\\RiderProjects\\OpenWeatherAPI_Project\\OpenWeatherAPI_Project\\OpenWeatherAPI_Project\\wwwroot\\styles.css",
+      "SourceId": "OpenWeatherAPI_Project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\RiderProjects\\OpenWeatherAPI_Project\\OpenWeatherAPI_Project\\OpenWeatherAPI_Project\\wwwroot\\",
+      "BasePath": "_content/OpenWeatherAPI_Project",
+      "RelativePath": "styles.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\User\\RiderProjects\\OpenWeatherAPI_Project\\OpenWeatherAPI_Project\\OpenWeatherAPI_Project\\wwwroot\\wetherlogo.png",
+      "SourceId": "OpenWeatherAPI_Project",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\RiderProjects\\OpenWeatherAPI_Project\\OpenWeatherAPI_Project\\OpenWeatherAPI_Project\\wwwroot\\",
+      "BasePath": "_content/OpenWeatherAPI_Project",
+      "RelativePath": "wetherlogo.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\wetherlogo.png"
+    }
+  ]
+}

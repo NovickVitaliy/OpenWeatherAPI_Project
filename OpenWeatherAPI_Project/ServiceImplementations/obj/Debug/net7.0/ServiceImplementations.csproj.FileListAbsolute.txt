@@ -1,0 +1,15 @@
+C:\Users\User\RiderProjects\OpenWeatherAPI_Project\OpenWeatherAPI_Project\ServiceImplementations\bin\Debug\net7.0\ServiceImplementations.deps.json
+C:\Users\User\RiderProjects\OpenWeatherAPI_Project\OpenWeatherAPI_Project\ServiceImplementations\bin\Debug\net7.0\ServiceImplementations.dll
+C:\Users\User\RiderProjects\OpenWeatherAPI_Project\OpenWeatherAPI_Project\ServiceImplementations\bin\Debug\net7.0\ServiceImplementations.pdb
+C:\Users\User\RiderProjects\OpenWeatherAPI_Project\OpenWeatherAPI_Project\ServiceImplementations\bin\Debug\net7.0\ServiceContracts.dll
+C:\Users\User\RiderProjects\OpenWeatherAPI_Project\OpenWeatherAPI_Project\ServiceImplementations\bin\Debug\net7.0\ServiceContracts.pdb
+C:\Users\User\RiderProjects\OpenWeatherAPI_Project\OpenWeatherAPI_Project\ServiceImplementations\obj\Debug\net7.0\ServiceImplementations.csproj.AssemblyReference.cache
+C:\Users\User\RiderProjects\OpenWeatherAPI_Project\OpenWeatherAPI_Project\ServiceImplementations\obj\Debug\net7.0\ServiceImplementations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\RiderProjects\OpenWeatherAPI_Project\OpenWeatherAPI_Project\ServiceImplementations\obj\Debug\net7.0\ServiceImplementations.AssemblyInfoInputs.cache
+C:\Users\User\RiderProjects\OpenWeatherAPI_Project\OpenWeatherAPI_Project\ServiceImplementations\obj\Debug\net7.0\ServiceImplementations.AssemblyInfo.cs
+C:\Users\User\RiderProjects\OpenWeatherAPI_Project\OpenWeatherAPI_Project\ServiceImplementations\obj\Debug\net7.0\ServiceImplementations.csproj.CoreCompileInputs.cache
+C:\Users\User\RiderProjects\OpenWeatherAPI_Project\OpenWeatherAPI_Project\ServiceImplementations\obj\Debug\net7.0\ServiceImplementations.csproj.CopyComplete
+C:\Users\User\RiderProjects\OpenWeatherAPI_Project\OpenWeatherAPI_Project\ServiceImplementations\obj\Debug\net7.0\ServiceImplementations.dll
+C:\Users\User\RiderProjects\OpenWeatherAPI_Project\OpenWeatherAPI_Project\ServiceImplementations\obj\Debug\net7.0\refint\ServiceImplementations.dll
+C:\Users\User\RiderProjects\OpenWeatherAPI_Project\OpenWeatherAPI_Project\ServiceImplementations\obj\Debug\net7.0\ServiceImplementations.pdb
+C:\Users\User\RiderProjects\OpenWeatherAPI_Project\OpenWeatherAPI_Project\ServiceImplementations\obj\Debug\net7.0\ref\ServiceImplementations.dll

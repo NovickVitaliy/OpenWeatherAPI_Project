@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\User\\RiderProjects\\OpenWeatherAPI_Project\\OpenWeatherAPI_Project\\OpenWeatherAPI_Project\\wwwroot\\styles.css",
+      "PackagePath": "staticwebassets\\styles.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\RiderProjects\\OpenWeatherAPI_Project\\OpenWeatherAPI_Project\\OpenWeatherAPI_Project\\wwwroot\\wetherlogo.png",
+      "PackagePath": "staticwebassets\\wetherlogo.png"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.OpenWeatherAPI_Project.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.OpenWeatherAPI_Project.props",
+      "PackagePath": "build\\OpenWeatherAPI_Project.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.OpenWeatherAPI_Project.props",
+      "PackagePath": "buildMultiTargeting\\OpenWeatherAPI_Project.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.OpenWeatherAPI_Project.props",
+      "PackagePath": "buildTransitive\\OpenWeatherAPI_Project.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
